@@ -1,6 +1,5 @@
 # Football_DB_project
-![logo.png](yoman)
-
+![logo](Soccer_P.png)  
 ### This project is for connecting 'MYSQL' database with 'JAVA'
 
 ```
